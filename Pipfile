@@ -10,6 +10,8 @@ redis-lru = "*"
 pymongo = "*"
 mongoengine = "*"
 faker = "*"
+requests = "*"
+bs4 = "*"
 
 [dev-packages]
 
